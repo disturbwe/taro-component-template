@@ -1,0 +1,7 @@
+**/node_modules
+**/dist
+**/lib
+coverage
+lerna-debug.log
+.vscode/
+yarn-error.log

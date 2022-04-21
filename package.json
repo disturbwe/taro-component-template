@@ -1,0 +1,7 @@
+{
+  "name": "taro-component-template",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "description": "taro 组件库的模板项目"
+}

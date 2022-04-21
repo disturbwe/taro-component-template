@@ -1,0 +1,16 @@
+{
+  "extends": "../../tsconfig.build",
+  "declaration": true,
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "es6",
+    "outDir": "./lib",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "src/**/*.tsx"
+  ]
+}
